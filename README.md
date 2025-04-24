@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @VALENTINE-it
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a joint website development
 - 📫 How to reach me - valentineawili@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Coding
 
 <!---
 VALENTINE-it/VALENTINE-it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
